@@ -1,7 +1,7 @@
-# <h1 align="center">Sticky IO</h1>
+# <h1 align="center">Hold That Thought!</h1>
 
 ## Description
-- [Live - Demo ](https://sticky-io-notes.herokuapp.com/ "Live View")
+- [Live - Demo ](https://adamhale88.github.io/holdThatThought/"Live View")
 
 <p>Notes now, And later </p>
 
